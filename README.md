@@ -1,2 +1,2 @@
-# portal
-Kronos Portal
+# Hybrid Multi Cloud Devops System Kronos
+
